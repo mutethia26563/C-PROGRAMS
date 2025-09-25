@@ -1,5 +1,6 @@
-//name:mutethia wycliffe kathuku
-//reg no:CT101/G/26563/25
+//Name:mutethia wycliffe kathuku
+//Reg no:CT101/G/26563/25
+//Description:c program to calculate the volume and surface area of a cylinder
 #include <stdio.h>
 #define PI 3.14159
 
@@ -33,3 +34,4 @@ int main() {
 
     return 0;
 }
+
