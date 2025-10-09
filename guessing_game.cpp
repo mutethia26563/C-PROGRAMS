@@ -1,6 +1,6 @@
 //NAME:MUTETHIA WYCLIFFE KATHUKU
 //REG NO:CT101/G/26563/25
-//DESCRIPTION:C PROGRAM FOR NUMBER GUESSUING GAME
+//DESCRIPTION:C PROGRAM FOR NUMBER GUESSING GAME
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -32,4 +32,5 @@ int main() {
 
     return 0;
 }
+
 
